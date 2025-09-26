@@ -1,6 +1,6 @@
 # QUBO-Benchmarking
 
-A comprehensive benchmarking framework for solving Quadratic Unconstrained Binary Optimization (QUBO) problems using various quantum and classical solvers, with focus on Max-Cut problems and G-Set benchmark instances.
+A comprehensive benchmarking framework for solving Quadratic Unconstrained Binary Optimization (QUBO) problems running on the GH200, currently for Max-Cut problems and G-Set benchmark instances.
 
 ## Overview
 
